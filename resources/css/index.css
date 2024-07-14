@@ -1,0 +1,106 @@
+/* .cont {
+    /* conatainer */
+    margin: 0 10%;
+    padding-top: 1rem;
+  }
+  
+  .rect {
+    width: 27px;
+    height: 9px;
+  
+    background: linear-gradient(96.34deg, #e537b9 0%, #c040df 100%);
+    border-radius: 4.5px;
+  }
+  
+  .navbar-brand {
+    font-weight: 600;
+  
+    font-size: 1.5rem;
+  
+    letter-spacing: 2px;
+    color: #292b2e;
+  }
+  
+  .day {
+    font-weight: 500;
+    font-size: 24px;
+    color: #252b42;
+  }
+  
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    filter: invert(1);
+    background-color: crimson;
+    height: 11%;
+    border-radius: 5px;
+  }
+  
+  .inner-container {
+    border-radius: 5px;
+    border: 1px solid rgba(138, 130, 130, 0.671);
+    padding: 10px;
+  }
+  
+  .carousel-item img {
+    border: 1px solid rgba(107, 41, 41, 0.521);
+    border-radius: 5px;
+  }
+  
+  .carousel-inner {
+    padding: 10px;
+  }
+  
+  .carousel-control-prev {
+    left: 3%;
+    /* background-color: black; */
+    width: 2rem;
+    height: 72%;
+  }
+  
+  .carousel-control-next {
+    right: 3%;
+    /* background-color: black; */
+    width: 2rem;
+    height: 72%;
+  }
+  
+  /* .accordion-button::after {
+    position: absolute;
+    left: 2%;
+  } */
+  
+  .accordion-button:after {
+    order: -1;
+    margin-left: 0;
+    margin-right: 0.5em;
+  }
+  
+  /*  */
+  @media only screen and (max-width: 500px) {
+    .accordion-body {
+      padding: 0;
+    }
+  
+    .carousel-control-prev,
+    .carousel-control-next {
+      width: 2rem;
+      /* height: 33%; */
+      /* background-color: rgba(129, 38, 38, 0.534); */
+      border-radius: 5px;
+    }
+  
+    .carousel-control-next-icon,
+    .carousel-control-prev-icon {
+      filter: invert(1);
+      background-color: crimson;
+      height: 15%;
+      border-radius: 5px;
+    }
+  
+    .inner-container {
+      border-radius: 5px;
+      border: 1px solid rgba(138, 130, 130, 0.671);
+      padding: 10px;
+      /* height: 90vh; */
+    }
+  } */
